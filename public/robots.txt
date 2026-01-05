@@ -1,0 +1,5 @@
+# robots.txt for payecalculator.co.ke
+User-agent: *
+Allow: /
+
+Sitemap: https://payecalculator.co.ke/sitemap.xml
